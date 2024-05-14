@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI & Front-end Development<br>🌱 I’m currently learning Deep Learning & JS<br>📫 How to reach me vishalsp09@gmail.com<br>⚡ Fun fact: I am lazy, but smart.
+🔭 I’m currently working on AI & ML. <br>🌱 I’m currently learning Deep Learning & JS<br>📫 How to reach me vishalsp09@gmail.com
 
 
 ## 🌐 Socials:
